@@ -8,6 +8,8 @@ A browser extension to scroll the screen for you while you are doing something e
 - **Adjustable Distance:** Set exactly how much of the screen height to move (set within the source code).
 - **Toggle Control:** Easily start and stop the scroller via the extension popup.
 
+⚠️ Note: This extension doesn't work for every site, as website structures vary. It works best on standard document-based pages and is confirmed to work on *Substack*.
+
 ## How to run locally
 1. *Clone the repo:*
 ```
@@ -23,3 +25,7 @@ cd auto-scroller
 3. *Usage:*
 - Pin the extension to your toolbar.
 - Navigate to any website, open the popup, and set the interval!
+
+## Demo 
+<video src="https://github.com/user-attachments/assets/6445605c-dcc6-45ad-85b2-a6ef588904b8" controls="controls" style="max-width: 100%;">
+</video>
