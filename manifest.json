@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Auto Scroller",
+  "version": "1.0",
+  "description": "Auto-scrolls the page at set intervals.",
+  "permissions": ["scripting", "activeTab"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
